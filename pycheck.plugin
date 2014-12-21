@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=pycheck
+IAge=3
+Name=PyCheck
+Name[ja]=PyCheck
+Description=Python Check (pep8 pyflakes)
+Description[ja]=Python Check (pep8 pyflakes)
+Authors=tmf16, Tobias Glaesser
+Copyright=Copyright (c) 2012 tmf16 Copyright (c) 2014 Tobias Glaesser
+Website=http://github.com/tobimensch/gedit-pycheck/ https://twitter.com/#!/tmf16
